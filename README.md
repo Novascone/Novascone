@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @Novascone
 - 📚 I studied computer science at Utah State University
-- 👀 I’m interested in data science and video game develpment
-- ⛏️ I'm looking for a career in data science/ video game development
-- 🌱 I’m currently learning more about data science/ video gamedevelopment
-- 💞️ I’m looking to collaborate on data science/ video game development projects 
+- 👀 I’m interested in data science
+- 💞️ I’m looking to collaborate on data science
 - 📫 How to reach me Warren.Novascone@proton.me
 
 <!---
