@@ -1,7 +1,7 @@
 - Hi, I’m Warren @Novascone
 - I studied computer science at Utah State University
 - I'm interested in computer science research and game dev
-- How to reach me novasconewarren@gmail.com
+- How to reach me warren@novascone.com
 
 <!---
 Novascone/Novascone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
