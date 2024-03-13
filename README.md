@@ -1,6 +1,6 @@
 - Hi, I’m Warren @Novascone
 - I studied computer science at Utah State University
-- I'm interested in computer science research and game dev
+- I'm interested in game dev
 - How to reach me warren@novascone.com
 
 <!---
